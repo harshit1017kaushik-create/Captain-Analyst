@@ -79,6 +79,12 @@ No dataset is included in this repository by default. Upload a dataset from the 
 
 ## Future improvements
 
+## 🚀 Live Demo
+
+**Try Captain Analyst here:** [Open Captain Analyst](YOUR_STREAMLIT_APP_URL)
+
+Upload a CSV or Excel dataset to explore automated data analysis, AI-generated insights, interactive dashboards, and downloadable reports.
+
 - Add automated tests and a sample dataset with non-sensitive data
 - Add deployment instructions for a hosted Streamlit version
 - Add screenshots and a short demo video
