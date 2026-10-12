@@ -81,7 +81,7 @@ No dataset is included in this repository by default. Upload a dataset from the 
 
 ## 🚀 Live Demo
 
-**Try Captain Analyst here:** [Open Captain Analyst](YOUR_STREAMLIT_APP_URL)
+**Try Captain Analyst here:** [[Open Captain Analyst](YOUR_STREAMLIT_APP_URL)](https://captain-analyst-h33zrtldmxkpteikyv8per.streamlit.app/)
 
 Upload a CSV or Excel dataset to explore automated data analysis, AI-generated insights, interactive dashboards, and downloadable reports.
 
