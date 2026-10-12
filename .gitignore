@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment secrets
+.env
+.streamlit/secrets.toml
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated analysis artifacts
+charts/
+*.png
+*.html
+*.csv
+*.xlsx
+
+# Keep this README and source files tracked; add any intentionally shared sample data explicitly.
